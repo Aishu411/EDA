@@ -1,2 +1,2 @@
 # EDA
-# TITANIC EDA
+## TITANIC EDA
